@@ -1,0 +1,4 @@
+const Person = (props) => {
+    listPrintOut()
+    
+}
